@@ -16,7 +16,6 @@ and the sales price of each item purchased.
 
 Typical public company accounting data, including annual revenues, annual cost of goods sold, in-store inventory on hand at the end of the year.
 
- 
 No other company data is available. 
 
 As a business analyst at Egger Consulting,  you will need to identify one business metric that could be extracted from the available data in the Happy Hat 
@@ -26,23 +25,21 @@ Remember, an effective metric is one that is directly related to the business pr
 problem to be addressed with a business process change, and later can also help determine if the implemented change was successful 
 (through seeing if the changes in the metric are in the direction you would expect after implementing the business process change).
 
-
-
 Question 1: Identify a business metric based on the case study.
 
-Days Inventory
+Ans: Days Inventory
 
 Question 2: For the identified metric, state whether it is a revenue, profitability or risk metric.
 
-Profitability Metric
+Ans: Profitability Metric
 
 Question 3: Identify the metric as traditional or dynamic. Explain why you classified the metric as you did.
 
-Days inventory is a dynamic metric. This is because the amount of time a product is stored between delivery and selling can be adjusted and changed in the span of less than a month.
+Ans: Days inventory is a dynamic metric. This is because the amount of time a product is stored between delivery and selling can be adjusted and changed in the span of less than a month.
 
 Question 4: Which of the data available in the case study would be used to derive the metric you have chosen?
 
-To derive days inventory, we can use the time of purchase and item purchased data from the register.
+Ans: To derive days inventory, we can use the time of purchase and item purchased data from the register.
 We also use the delivery data which includes the amount of each ingredient delivered each week.
 So the data we use includes:
 - 4 years of cash register data for every store that has, for each transaction, the date and time of the purchase, the specific items purchased, and the sales price of each item purchased.
@@ -50,7 +47,4 @@ So the data we use includes:
 
 Question 5:  Propose a type of relevant business process change that would be supported by the metric you have chosen. Explain why and how your chosen metric relates to your recommended business process change.
 
-A recommended business process change would be to use inventory management in order to optimize days inventory. This would benefit the store as days inventory would be minimized while there is minimal risk of having zero inventory that could be sold. The days inventory metric shows how long the yogurt ingredients are sitting on the shelf while not being sold. Minimizng this metric would reduce the amount of inventory being thrown out, thus increasing profitability.
-
-
-Youtube link: https://www.youtube.com/watch?v=OQ0zRo_j5Oc&list=WL&index=30&t=656s
+Ans: A recommended business process change would be to use inventory management in order to optimize days inventory. This would benefit the store as days inventory would be minimized while there is minimal risk of having zero inventory that could be sold. The days inventory metric shows how long the yogurt ingredients are sitting on the shelf while not being sold. Minimizng this metric would reduce the amount of inventory being thrown out, thus increasing profitability.
